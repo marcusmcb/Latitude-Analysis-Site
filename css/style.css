@@ -1,0 +1,16 @@
+body {
+     font-family: Arimo, sans-serif;
+     background-color: darkslateblue;
+}
+
+#jumbotron-bg-color {
+     background-color: navy;
+}
+
+#navbar-bg-color {
+     background-color: darkslategrey;
+}
+
+#table-display {
+     color: white;
+}
