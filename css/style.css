@@ -14,3 +14,7 @@ body {
 #table-display {
      color: white;
 }
+
+.thead-sticky {
+     position: sticky; top: 50px !important
+}
